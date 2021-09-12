@@ -1,0 +1,83 @@
+
+[
+    {
+        "SNo": 1,
+        "Name": "Apple",
+        "Quantity": 5,
+        "Unit": "kg",
+        "Department": "Fruit",
+        "Notes": "Green Apple"
+    },
+    {
+        "SNo": 2,
+        "Name": "Grapes",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Fruit",
+        "Notes": "Seedless"
+    },
+    {
+        "SNo": 3,
+        "Name": "Egg",
+        "Quantity": 2,
+        "Unit": "Doz",
+        "Department": "Non-veg",
+        "Notes": "None"
+    },
+    {
+        "SNo": 4,
+        "Name": "Chicken",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": " Non-veg",
+        "Notes": "Curry piece"
+    },
+    {
+        "SNo": 5,
+        "Name": "Cucumber",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "None"
+    },
+    {
+        "SNo": 6,
+        "Name": "Potatoes",
+        "Quantity": 2,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "Small sized"
+    },
+    {
+        "SNo": 7,
+        "Name": "Rice",
+        "Quantity": 25,
+        "Unit": "kg",
+        "Department": "Rice",
+        "Notes": "Basmathi"
+    },
+    {
+        "SNo": 8,
+        "Name": "Milk",
+        "Quantity": 2,
+        "Unit": "L",
+        "Department": "Dairy Product",
+        "Notes": "Cow milk"
+    },
+    {
+        "SNo": 9,
+        "Name": "Onions",
+        "Quantity": 3,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "None"
+    },
+    {
+        "SNo": 10,
+        "Name": "Carrot",
+        "Quantity": 1,
+        "Unit": "kg",
+        "Department": "Vegetables",
+        "Notes": "None"
+    }
+]

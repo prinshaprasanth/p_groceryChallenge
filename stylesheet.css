@@ -1,0 +1,100 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,700);
+
+body {
+  font-family: 'Open Sans', sans serif;
+  font-weight: 300;
+  line-height: 1.42em;
+  color: #101010;
+  background-color:#101010;
+  background-image:url("grocery.jpg");
+  background-size: cover;
+}
+
+h1 {
+  font-size:3em; 
+  font-weight: 300;
+  line-height:1em;
+  text-align: center;
+  color: #db7354;
+}
+
+h2 {
+  font-size:1em; 
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height:1em;
+  padding-bottom: 2em;
+  color: #FB667A;
+}
+
+
+.green { color: whitesmoke; }
+p{
+    font-weight: bold;
+    text-align: left;
+    font-size: 195%;
+    padding-top: 2.1em;
+    margin: top 4%;
+    margin-left: 44%;
+    color:#ce530b;
+}
+.container th h1 {
+	  font-weight: bold;
+	  font-size: 1em;
+    text-align: center;
+    color: rgb(66, 12, 12);
+}
+
+.container td {
+	  font-weight: normal;
+	  font-size: 1em;
+}
+
+.container {
+	  text-align: center;
+	  overflow: hidden;
+	  width: 50%;
+	  margin: 0 auto;
+    display: table;
+    padding: 0 0 10em 0;
+    border-radius: 6px;
+    margin-bottom: 30px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, .8);
+}
+
+.container td, .container th {
+	  padding-bottom: 2%;
+	  padding-top: 2%;
+    padding-left:2%;  
+    font-weight: bold;
+}
+
+.container tr:nth-child(odd) {
+	  /* background-color: #323C50; */
+      background-color: #c0b696;
+}
+
+.container tr:nth-child(even) {
+	  background-color: #c0b07d;
+}
+
+.container th {
+      background-color: #d69162;
+}
+
+.btn {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: #c28a23;
+    border-color: #c28a23;
+  }
+
+
+
+@media (max-width: 800px) {
+.container td:nth-child(4),
+.container th:nth-child(4) { display: none; }
+}
+
