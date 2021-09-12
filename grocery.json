@@ -3,7 +3,7 @@
     {
         "SNo": 1,
         "Name": "Apple",
-        "Quantity": 5,
+        "Quantity": 2,
         "Unit": "kg",
         "Department": "Fruit",
         "Notes": "Green Apple"
@@ -14,7 +14,7 @@
         "Quantity": 2,
         "Unit": "kg",
         "Department": "Fruit",
-        "Notes": "Seedless"
+        "Notes": "Green grapes"
     },
     {
         "SNo": 3,
@@ -35,25 +35,25 @@
     {
         "SNo": 5,
         "Name": "Cucumber",
-        "Quantity": 2,
+        "Quantity": 1,
         "Unit": "kg",
         "Department": "Vegetables",
         "Notes": "None"
     },
     {
         "SNo": 6,
-        "Name": "Potatoes",
+        "Name": "Wheat Flour",
         "Quantity": 2,
         "Unit": "kg",
-        "Department": "Vegetables",
-        "Notes": "Small sized"
+        "Department": "Cereals",
+        "Notes": "None"
     },
     {
         "SNo": 7,
         "Name": "Rice",
         "Quantity": 25,
         "Unit": "kg",
-        "Department": "Rice",
+        "Department": "Cereals",
         "Notes": "Basmathi"
     },
     {
